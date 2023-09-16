@@ -1,0 +1,3 @@
+E:/Labs/archive/OSA/Second/one more try/cmake-build-debug/CMakeFiles/one_more_try.dir
+E:/Labs/archive/OSA/Second/one more try/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/Labs/archive/OSA/Second/one more try/cmake-build-debug/CMakeFiles/rebuild_cache.dir

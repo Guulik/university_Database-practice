@@ -1,0 +1,6 @@
+# ninja log v5
+3	795	7156460101941909	CMakeFiles/one_more_try.dir/database.cpp.obj	d4e3951129e0665c
+19	1098	7156460104981905	CMakeFiles/one_more_try.dir/main.cpp.obj	66d482973976337f
+1098	1225	7156460106211912	one_more_try.exe	6711501a935409f1
+0	312	7157035520782030	build.ninja	255c4e907f719fbf
+16	703	7156402629038188	CMakeFiles/one_more_try.dir/template_check.cpp.obj	98f6cd784dfaca74
